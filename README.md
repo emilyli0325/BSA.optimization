@@ -1,1 +1,5 @@
-# BSA.optimization
+# Optimizing bulk segregant analysisof drug resistanceusingPlasmodium falciparumgenetic 1crossesconducted in humanized mice
+
+Classical malariaparasitegenetic  crosses involveisolation,  genotyping,and  phenotyping  of 33progeny parasites, which is time consuming and laborious. We tested arapidalternative approach ̶34bulk  segregant  analysis(BSA) ̶thatutilizessequencing  of bulk progeny  populations with  and 35withoutdrug selection for rapid identification of drug resistance loci. We used dihydroartemisinin 36(DHA) selection in two genetic crossesandinvestigated how synchronization, cryopreservation, 37and the drug selection regimen impacted BSAsuccess.We detecteda robustquantitative trait locus 38(QTL)at kelch13in both crosses,but did not detect QTLs atfour other candidate loci. QTLs were 39detected  using synchronized,  but  not  unsynchronized progeny pools,  consistent  with  the  stage-40specific  action  of DHA.  We  also  successfully  applied  BSA tocryopreserved  progeny  pools, 41expanding the utility of this approach.We conclude that BSA providesa powerful approachfor 42investigating the genetic architecture of drug resistance in Plasmodium falciparum.4344
+
+doi: https://doi.org/10.1101/2021.11.24.469878
