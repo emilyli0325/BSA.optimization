@@ -1,13 +1,3 @@
-# color
-# red
-> colorRampPalette(brewer.pal(8, "YlOrRd"))(15)
- [1] "#FFFFCC" "#FFF6B6" ["#FFEDA0"] "#FEE38B" ["#FED976"] "#FEC561" "#FEB24C" ["#FD9F44"] "#FD8D3C" ["#FC6D33"] "#FC4E2A" "#EF3322" ["#E31A1C"] "#CA0D20" ["#B10026"]
-# green
-> colorRampPalette(brewer.pal(8, "Greens"))(15)
- [1] "#F7FCF5" "#EEF8EA" "#E5F5E0" "#D6EFD0" "#C7E9C0" "#B4E1AD" "#A1D99B" "#8ACE88" ["#74C476"] "#5AB769" "#41AB5D" "#319B50" "#238B45" ["#11723B"] "#005A32"
-
-
-
 ### QTL all BSA6
 
 setwd("D:/Dropbox (TX Biomed)/Emily/4.P01/6.BSA6.Mal31xKH004/3.analysis/BSA")
