@@ -1,7 +1,4 @@
 
-setwd("D:/Dropbox (TX Biomed)/Emily/4.P01/7.DHA.drug.bsa/2.2.analysis.run2")#home
-setwd("C:/Users/xli.TXBIOMED/Dropbox (TX Biomed)/Emily/4.P01/7.DHA.drug.bsa/2.2.analysis.run2")#work
-
 #### deltaSNP and Gprime
 dfOo <-importFromGATK(file = "BSA.7.2.NF54xNHP1337.Drug.SNP.filter.table",highBulk = "BE.BC.0027",lowBulk = "BE.BC.0033")
 df_filtOo <-filterSNPs(SNPset = dfOo,minTotalDepth = 30,maxTotalDepth = 10000,minSampleDepth = 10)
